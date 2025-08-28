@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-python-app
-        image: likith3105/my-python-app:1.0.3
+        image: likith3105/my-python-app:1.0.4
         ports:
         - containerPort: 8085
